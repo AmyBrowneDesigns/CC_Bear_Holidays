@@ -1,0 +1,24 @@
+
+
+body > header {
+        background-color: dodgerblue;
+        color: floralwhite;
+    }
+
+body > header {
+    flex-flow: row;
+}
+
+body > header > nav > ul {
+    list-style: none;
+}
+body > header > nav > ul > li > a {
+    color: floralwhite
+}
+
+
+#gallery {
+    display: flex;
+    flex-flow: row wrap;
+  
+  }
